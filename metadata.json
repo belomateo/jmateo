@@ -1,0 +1,5 @@
+{
+  "name": "GymFlow",
+  "description": "Sistema de gestión de cobranza de gimnasios minimalista y elegante.",
+  "requestFramePermissions": ["camera"]
+}
